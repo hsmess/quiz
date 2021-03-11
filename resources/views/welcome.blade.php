@@ -55,7 +55,7 @@
     <script>
         (function(){
             // Replace with your asset's playback ID
-            var playbackId = "hNwShdA23WLRXkoCJAuceJdlA1u024LZwRR9sqrGdmLY";
+            var playbackId = "pLvNOgDn01RnlbQyGUMpq7CsiwyzCm1E0100C00J5V6tsd4";
             var url = "https://stream.mux.com/" + playbackId + ".m3u8";
             var video = document.getElementById("myVideo");
 
